@@ -14,7 +14,3 @@ options = program.opts();
 validation_for_action(options.action)
 
 validation_for_shift(options.shift)
-
-// if (options.shift) console.log(options.shift);
-// if (options.action) console.log(options.action);
-// if (options.pizzaType) console.log(`- ${options.pizzaType}`);
